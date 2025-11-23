@@ -42,7 +42,8 @@ function ProductCard({
         <div className="product-card-details">
           <div className="product-heading-wrap">
             <h3>{petName}</h3>
-            <p>{`£${plantPrice}`}</p>
+		<p>Rs.{plantPrice}</p>
+            {/*<p>{`£${plantPrice}`}</p>*/}
           </div>
           <p className="plant-name">{plantName}</p>
           <div className="product-cta-wrap">

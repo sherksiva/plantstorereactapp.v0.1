@@ -41,7 +41,7 @@ const ProductList = () => {
   return (
     <div>
       <header className="header">
-        <h1>Plant Delivery</h1>
+        <h1>List of Plants</h1>
         <p>Browse our beautiful range of plants available for next day delivery</p>
       </header>
       <main className="shop-container">

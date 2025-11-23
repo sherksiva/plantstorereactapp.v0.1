@@ -33,7 +33,7 @@ function Navigation() {
                 />
             </div>
            
-            <img src={logo} alt="Logo" width="200px"/>
+            {/*<img src={logo} alt="Logo" width="200px"/>*/}
            
             <div className="nav-right nav-icon-wrap desktop">
             <svg className="icon-stroke-fill" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 22 23" fill="none">
